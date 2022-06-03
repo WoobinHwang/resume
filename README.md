@@ -20,7 +20,7 @@
 - 과정명 : **AI데이터플랫폼을 활용한 빅데이터 분석전문가 과정**
     - 주관 : 휴먼교육센터 ([http://www.human.or.kr/](http://www.human.or.kr/))
     - 기간 : 2022.03.10 ~
-    - 교육내용 :
+    - 교육 내용 :
         - R, Python, SQL
         
 
@@ -30,7 +30,7 @@
 
 - 기획 : 사용자가 선택한 기분에 따라 영화를 추천해주는 웹 사이트
 - 인원 : 6인
-- 사용언어 : `Python`
+- 사용 언어 : `Python`
 - 작업 툴 : `Pycham` , `VScode`
 - 배포 서버 : `AWS` ([주소](http://woongflix.shop/))
 - Database : `MongoDB`
@@ -60,4 +60,8 @@
     
     ![KakaoTalk_20220602_164914010.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/87a69fdb-57a0-47b9-9a00-c1b7573ad653/KakaoTalk_20220602_164914010.jpg)
     
-- 작업코드 : https://github.com/AHNDUHONG/Kakaotalk_Chatbot_Finance
+- 작업 코드 : https://github.com/AHNDUHONG/Kakaotalk_Chatbot_Finance
+    
+    
+
+## 경력

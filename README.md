@@ -18,7 +18,7 @@
         - 5주차 ) **AWS EC2, Linux, 도메인 등록**
         
 - 과정명 : **AI데이터플랫폼을 활용한 빅데이터 분석전문가 과정**
-    - 주관 : 휴먼교육직
+    - 주관 : 휴먼교육센터 ([http://www.human.or.kr/](http://www.human.or.kr/))
     - 기간 : 2022.03.10 ~
     - 교육내용 :
         - R, Python, SQL
@@ -30,15 +30,34 @@
 
 - 기획 : 사용자가 선택한 기분에 따라 영화를 추천해주는 웹 사이트
 - 인원 : 6인
-- 사용언어 : Python
-- 작업 툴 : Pycham , VScode
+- 사용언어 : `Python`
+- 작업 툴 : `Pycham` , `VScode`
+- 배포 서버 : `AWS` ([주소](http://woongflix.shop/))
+- Database : `MongoDB`
+- 라이브러리 : `Flask`,  `BeautifulSoup4`, `requests`, `Pymongo`
+- 담당 업무 :
+    - 영화 데이터 크롤링 및 MongoDB저장
+    - 웹페이지와 DB가 json형태로 주고받는 기능
+- 기간 : 2021.12월 중 약 2주간
 - 작업 코드 : https://github.com/making-challenge-7-1/woongflix
 
 ### 지금 우리 주식은
 
 - 기획 : 주식 초심자를 위한 입문 챗봇
 - 인원 : 4인
-- 사용언어 : Python
-- 작업 툴 : VScode
+- 사용 언어 : `Python`
+- 작업 툴 : `VScode`
+- 배포 서버 : `Heroku` ([주소](https://now-our-stock.herokuapp.com/))
+- Database : `PostgreSQL`
+- 라이브러리 : `Flask`, `Beautifulsoup4`, `Pandas-datareader`,
+                     `psycopg2-binary`
+- 담당 업무 :
+    - 주식 관련 데이터 크롤링
+    - 주식의 현재 시세 출력
+    - DB구축하여 사용자와 유기적으로 연동
 - 기간 : 2022.05.20 ~ 2022.06.02
-- 결과물 : (카카오톡 검색)
+- 결과물 : (카카오톡에서 ‘휴먼주식도우미챗봇’ 검색)
+    
+    ![KakaoTalk_20220602_164914010.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/87a69fdb-57a0-47b9-9a00-c1b7573ad653/KakaoTalk_20220602_164914010.jpg)
+    
+- 작업코드 : https://github.com/AHNDUHONG/Kakaotalk_Chatbot_Finance
